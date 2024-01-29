@@ -1,8 +1,6 @@
-# React + Vite
+# React + Vite - Aplicación de que busca GIFS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi repositorio del mi primera APP que realice con Fernando Herrera en React
+Esta Aplicación realiza una petición a una Pagina de GIF y me devuelve un resultado de 10 items para mostrarlos en mi pagina
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
